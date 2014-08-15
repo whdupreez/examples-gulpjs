@@ -1,7 +1,9 @@
 {
+    "author": "Willy du Preez",
     "name": "GulpExample",
     "version": "1.0.0",
-    "dependencies": {
+    "private": true,
+    "devDependencies": {
         "gulp-autoprefixer": "*",
         "gulp-concat": "*",
         "gulp-filesize": "*",
